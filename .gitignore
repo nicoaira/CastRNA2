@@ -1,0 +1,8 @@
+.nextflow.log*
+.nextflow/*
+shortened_tree.txt
+pipeline.log
+results/*
+work/*
+rfam_db
+reproduce_bprna/*
